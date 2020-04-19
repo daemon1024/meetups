@@ -26,7 +26,8 @@ List of all the meetups of the OSDC Community along with the links to their resp
 | 2020-02-18 | Informal Meetup            | Community Feedback, Proposals pitching, Discussion on various topics                                              |  -          | [Community Feedback & Proposals](https://github.com/osdc/meetups/issues/46)                                                             |
 | 2020-02-25 | How to begin Kernel Development | Intro to Kernels and their development | [@VARoDeK](https://github.com/VARoDeK)| [Slides](https://drive.google.com/file/d/1MQcDMq-MKDl72O4s9WV5yYx35AJFAKlv/view?usp=sharing)|
 |2020-01-01|Dk|Doesn't matter|someone on earth|uploaded soon
-|TBA|TBA|TBA|TBA|TBA||
+|Sat Apr 18 2020|Open Source for cats|Open source workshops for felines among us.|someone on earth|uploaded soon
+|TBA|TBA|TBA|TBA|TBA|||
 
 
 ### 2019-20 Fall
