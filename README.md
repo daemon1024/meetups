@@ -25,7 +25,7 @@ List of all the meetups of the OSDC Community along with the links to their resp
 | 2020-02-05 | GSoC & Outreachy       	  | Intro & discussion about these student programs and how to apply to them | [@sidntrivedi012](https://github.com/sidntrivedi012), [@anubhavsinha98](https://github.com/anubhavsinha98) | [GSoC Student Guide](https://google.github.io/gsocguides/student/) |
 | 2020-02-18 | Informal Meetup            | Community Feedback, Proposals pitching, Discussion on various topics                                              |  -          | [Community Feedback & Proposals](https://github.com/osdc/meetups/issues/46)                                                             |
 | 2020-02-25 | How to begin Kernel Development | Intro to Kernels and their development | [@VARoDeK](https://github.com/VARoDeK)| [Slides](https://drive.google.com/file/d/1MQcDMq-MKDl72O4s9WV5yYx35AJFAKlv/view?usp=sharing)|
-|2020-01-01|Dk|Doesn't matter|someone on earth|google.com
+|2020-01-01|Dk|Doesn't matter|someone on earth|[Sildes](google.com)
 |TBA|TBA|TBA|TBA|TBA||
 
 
