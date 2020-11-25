@@ -19,8 +19,7 @@ List of all the meetups of the OSDC Community along with the links to their resp
 
 | Date       | Meetup Topic 	          | Details                                       | Speaker(s) | Talk Slides/Notes                                            |
 | ---------- | ---------------------------|-----------------------------------------------| ---------- | -------------------------------------------------------------|
-| Tue Sep 15 2020        | Informal Meetup           	          | Interaction with newbloods + OSS Quiz                                           | OSDC Core Team        | uploaded soon
-|TBA|TBA|TBA|TBA|TBA|                                                          |
+| TBA        | TBA           	          | TBA                                           | TBA        | TBA                                                          |
 
 ### 2019-20 Spring
 
